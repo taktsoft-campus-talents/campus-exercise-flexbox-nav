@@ -12,13 +12,10 @@ header {
   background-color: #264653;
   color: white;
   height: 120px;
-  display: flex;
-  align-items: center;
   padding: 20px;
 }
 
 nav ul {
-  display: flex;
   list-style-type: none;
   gap: 12px;
 }
